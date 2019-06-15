@@ -7,7 +7,7 @@ absolute_permalinks: true
 # Setup
 title:               DarkStar1997
 tagline:             'Home'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'Portfolio website of <a href="https://www.linkedin.com/in/rohan-mark-gomes" target="_blank">Rohan Mark Gomes</a> . Github username: <a href="https://github.com/DarkStar1997" target="_blank">DarkStar1997</a>.'
 url:                 https://github.com/DarkStar1997
 baseurl:             ''
 paginate:            5
