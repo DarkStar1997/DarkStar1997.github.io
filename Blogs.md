@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Projects
+layout: blog
+title: Blogs
 ---
 
 # Download
