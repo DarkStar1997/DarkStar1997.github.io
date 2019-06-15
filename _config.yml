@@ -8,8 +8,8 @@ absolute_permalinks: true
 title:               DarkStar1997
 tagline:             'Home'
 description:         'Portfolio website of Rohan Mark Gomes'
-url:                 https://github.com/DarkStar1997
-baseurl:             'https://github.com/DarkStar1997'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
 paginate:            5
 
 # About/contact
