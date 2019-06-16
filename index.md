@@ -3,7 +3,7 @@ layout: default
 title: Homepage
 ---
 
-![My Picture](/assets/pictures/image1.jpeg)
+![My Picture](/assets/pictures/image2.jpg)
 
 
 # Welcome!!!
