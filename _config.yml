@@ -6,7 +6,7 @@ absolute_permalinks: true
 
 # Setup
 title:               Rohan
-tagline:             'Home'
+tagline:             ''
 description:         'Portfolio website of <a href="https://www.linkedin.com/in/rohan-mark-gomes" target="_blank">Rohan Mark Gomes</a> . Github username: <a href="https://github.com/DarkStar1997" target="_blank">DarkStar1997</a>.'
 url:                 https://github.com/DarkStar1997
 baseurl:             /
