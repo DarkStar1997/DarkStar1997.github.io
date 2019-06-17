@@ -5,12 +5,8 @@ title: Certifications
 
 
 
-<br/>
-<br/>
-<br/>
-
 1.	**Advanced C++**<br/>
 
 	<img align="left" width="30" height="30" src="/assets/icons/microsoft.png"> &nbsp; Microsoft
 	
-	![Certificate](https://courses.edx.org/certificates/5bc13c9ca74f41f0b868bd8c8100c2f8)
+	![Certificate](https://dochub.com/rm-gomes/BYMQv2/microsoft-dev210-3x-certificate-edx-pdf)
