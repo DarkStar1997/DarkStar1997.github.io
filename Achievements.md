@@ -21,14 +21,14 @@ title: Achievements
 
 1. **CII Meet 2019**
 
-	On the 16th of March, 2019, I got a chance to demonstrate my project *Insight* at the [Confederation of Indian Industry](https://www.cii.in/) meet. 
+	On the 16th of March, 2019, I was given an opportunity to demonstrate my project *Insight* at the [Confederation of Indian Industry](https://www.cii.in/) meet. 
 
 	A small picture of my project:
 	
 	![Insight](/assets/pictures/image5.jpg)
 
 
-1. **Complete Xaverian of the Year 2016**
+1. **The Complete Xaverian of the Year 2016**
 
 	On the 22nd of January, 2016, I was crowned the Complete Xaverian of the passing-out batch. The Complete Xaverian Award is the highest award for a student of St. Xavier's. Every year only one student from the outgoing batch is selected to receive this honour. The selection process is very rigorous as an election is conducted and all the teachers from both the Primary, Secondary and Higher Secondary section cast their vote. The candidates are selected on the basis of their attitude, relationship with their fellow mates, juniors, seniors and teachers; academics, extra curricular activities and many more which are not revealed.
 
