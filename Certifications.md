@@ -10,4 +10,4 @@ title: Certifications
 	<img align="left" width="30" height="30" src="/assets/icons/microsoft.png"> &nbsp; Microsoft
 	
 	<!---<embed align="centre" src="/assets/documents/microsoft-cpp.pdf" width="800" height="700" />--->
-	<iframe src="https://drive.google.com/file/d/1MFxNmgNkRDYLts0Y56pd_Se546qG37Dj/preview" width="800" height="700"></iframe>
+	<iframe src="https://drive.google.com/file/d/1MFxNmgNkRDYLts0Y56pd_Se546qG37Dj/preview" width="640" height="480"></iframe>
