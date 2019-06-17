@@ -20,6 +20,12 @@ title: Certifications
 
 1. **Design and Analysis of Algorithms**<br/>
 
-	<img align="left" width="30" height="30" src="/assets/icons/nptel.png"> &nbsp; [NPTEL](https://nptel.ac.in/)
+	<img align="left" width="40" height="40" src="/assets/icons/nptel.png"> &nbsp; [NPTEL](https://nptel.ac.in/)
 
 	<iframe src="https://drive.google.com/file/d/0B-KEmP85lMrWV1BBdG5BdHVrcUE/preview" width="640" height="480"></iframe>
+
+1. **ACM ICPC 2017 Regionals**<br/>
+
+	<img align="left" width="40" height="40" src="/assets/icons/acm-icpc.png"> &nbsp; [ACM ICPC](https://icpc.baylor.edu/)
+
+	<iframe src="https://drive.google.com/file/d/1bjOxiMVkaRsPDRtI7BobmUf-scxIQnJ-/preview" width="640" height="480"></iframe>
