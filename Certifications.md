@@ -9,4 +9,5 @@ title: Certifications
 
 	<img align="left" width="30" height="30" src="/assets/icons/microsoft.png"> &nbsp; Microsoft
 	
-	<embed align="centre" src="/assets/documents/microsoft-cpp.pdf" width="800" height="700" />
+	<!---<embed align="centre" src="/assets/documents/microsoft-cpp.pdf" width="800" height="700" />--->
+	<embed src="https://docs.google.com/viewerng/viewer?url=https://github.com/DarkStar1997/darkstar1997.github.io/blob/master/assets/documents/microsoft-cpp.pdf" width="800" height="700" />
