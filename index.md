@@ -3,7 +3,7 @@ layout: default
 title: Homepage
 ---
 
-![My Picture](/assets/pictures/image2.jpg)
+![My Picture](/assets/pictures/image2.jpg){border-radius="100"}
 
 
 # Welcome!!!
