@@ -9,4 +9,4 @@ title: Certifications
 
 	<img align="left" width="30" height="30" src="/assets/icons/microsoft.png"> &nbsp; Microsoft
 	
-	<embed align="centre" src="/assets/documents/microsoft-cpp.pdf" width="700" height="700%" />
+	<embed align="centre" src="/assets/documents/microsoft-cpp.pdf" width="1500" height="1500" />
