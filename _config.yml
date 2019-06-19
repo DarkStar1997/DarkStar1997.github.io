@@ -20,7 +20,3 @@ author:
 
 # Custom vars
 version:             1.0.0
-
-sidebar:
-  title: "Sample Title"
-  nav: sidebar-sample
