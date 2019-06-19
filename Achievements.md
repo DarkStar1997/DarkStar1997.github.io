@@ -35,3 +35,9 @@ title: Achievements
 	A picture with parents on that day at school:
 	
 	![Complete Xaverian](/assets/pictures/image6.jpg)
+
+1. **First Position in Mixed Doubles at IEM Badminton Tournament**
+	
+	On the 23rd of February, 2019, Nayanika, a good friend of mine, and I bagged the first position in the IEM Badminton Tournament.
+
+	![Pic with Nayanika](/assets/pictures/image7.jpg)
