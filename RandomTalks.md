@@ -18,3 +18,9 @@ In this page I will be adding random stuff which might be of interest to you.
 	In this video I have demonstrated the usage of the [GMP library](https://gmplib.org/) side by side with the BigInteger library in JAVA. Please be mindful of the fact that this video was uploaded a long time ago in my first year of college when I still used Windows as my primary OS.
 
 	<iframe width="640" height="480" src="https://www.youtube.com/embed/C2RKwXYovkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*	My Arch Linux with i3 setting:
+
+	Being a Linux fanboy, I like fine-tuning my workspace to suit my needs. I use Arch Linux with i3 as my window manager. Here's a screenshot of my setting.
+
+	![Screenshot](/assets/pictures/image9.png)
