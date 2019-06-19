@@ -3,7 +3,7 @@ layout: page
 title: Blogs
 ---
 
-I love to share my learnings with my friends. Here are a few blogs I have written :-
+I love to share my learnings with my friends. Here are a few blogs I have written:-
 
 1. [Intermediate C++: Speeding up iostreams in C++](https://dasayan05.github.io/blog-tut/2019/04/06/speeding-up-iostreams-in-c++.html)
 	
