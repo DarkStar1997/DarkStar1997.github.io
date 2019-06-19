@@ -1,0 +1,18 @@
+sidebar-sample:
+  - title: "Home"
+    url: /
+
+  - title: "Achievements"
+    url: /Achievements.md
+
+  - title: "Blogs"
+    url: /Blogs.md
+
+  - title: "Certifications"
+    url: /Certifications.md
+
+  - title: "Random Talks"
+    url: /RandomTalks.md
+
+  - title: "Contact"
+    url: /Contact.md
