@@ -12,7 +12,7 @@ Hi, My name is Rohan Mark Gomes. I am a final year student in the [Department of
 
 ## Latest news and updates:
 
-1. *LinkedIn* - Spandan and I are going to have our very own [AUR](https://aur.archlinux.org/) package  which is a very optimized [OpenCV](https://opencv.org/) build with a lot of additional features not present in standard OpenCV installations like the [PyPI OpenCV build](https://pypi.org/project/opencv-python/). Read more about it [here](https://www.linkedin.com/feed/update/urn:li:activity:6526116155696996352/).
+1. *LinkedIn* - [Spandan](https://www.linkedin.com/in/spandanghosh2/) and I are going to have our very own [AUR](https://aur.archlinux.org/) package  which is a very optimized [OpenCV](https://opencv.org/) build with a lot of additional features not present in standard OpenCV installations like the [PyPI OpenCV build](https://pypi.org/project/opencv-python/). Read more about it [here](https://www.linkedin.com/feed/update/urn:li:activity:6526116155696996352/).
 
 1. Stood first in MAKAUT Conclave 2019. Give it a read at my [Achievements](/Achievements.md)
 
