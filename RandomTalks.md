@@ -29,7 +29,7 @@ In this page I will be adding random stuff which might be of interest to you.
 
 	[Chaos Knight](https://dota2.gamepedia.com/Chaos_Knight)
 
-	<iframe src="https://giphy.com/embed/Mdue3sgJa9fzna5qcR" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Mdue3sgJa9fzna5qcR">via GIPHY</a></p>
+	<iframe src="https://giphy.com/embed/Z9zmezFtsv3TqkMt3g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z9zmezFtsv3TqkMt3g">via GIPHY</a></p>
 
 	[Legion Commander](https://dota2.gamepedia.com/Legion_Commander)
 
