@@ -29,12 +29,12 @@ In this page I will be adding random stuff which might be of interest to you.
 
 	[Chaos Knight](https://dota2.gamepedia.com/Chaos_Knight)
 
-	<iframe src="https://giphy.com/embed/Z9zmezFtsv3TqkMt3g" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z9zmezFtsv3TqkMt3g">via GIPHY</a></p>
+	<iframe src="https://giphy.com/embed/Z9zmezFtsv3TqkMt3g" width="420" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z9zmezFtsv3TqkMt3g">via GIPHY</a></p>
 
 	[Legion Commander](https://dota2.gamepedia.com/Legion_Commander)
 
-	<iframe src="https://giphy.com/embed/RJc1B8UvLpKTTCVdUQ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RJc1B8UvLpKTTCVdUQ">via GIPHY</a></p>
+	<iframe src="https://giphy.com/embed/RJc1B8UvLpKTTCVdUQ" width="420" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RJc1B8UvLpKTTCVdUQ">via GIPHY</a></p>
 
 	[Sven](https://dota2.gamepedia.com/Sven)
 
-	<iframe src="https://giphy.com/embed/RH871JIlhZo7s1Aotr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RH871JIlhZo7s1Aotr">via GIPHY</a></p>
+	<iframe src="https://giphy.com/embed/RH871JIlhZo7s1Aotr" width="420" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RH871JIlhZo7s1Aotr">via GIPHY</a></p>
