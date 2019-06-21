@@ -24,3 +24,11 @@ In this page I will be adding random stuff which might be of interest to you.
 	Being a Linux fanboy, I like fine-tuning my workspace to suit my needs. I use Arch Linux with i3 as my window manager. Here's a screenshot of my setting.
 
 	![Screenshot](/assets/pictures/image9.png)
+
+*	Being a Dota 2 addict, I also have some cool cosmetics for my favourite heroes:
+
+	[Chaos Knight](https://dota2.gamepedia.com/Chaos_Knight)
+
+	<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Mdue3sgJa9fzna5qcR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Mdue3sgJa9fzna5qcR">via GIPHY</a></p>
+
+	[Legion Commander](https://dota2.gamepedia.com/Legion_Commander)
