@@ -17,7 +17,7 @@ I love to share my learnings with my friends. Here are a few blogs I have writte
 
 	C++ is a general-purpose, multi-paradigm programming language designed/developed by Bjarne Stroustrup which alongwith C, forms the backbone of majority of the programming industry today. A very important concept to be grasped by beginner programmers is the idea of “linking”. Linking basically refers to the process of bundling library code into an archive and use it later when necessary. It turns out to be an idea that is used extensively in production. The following article aims at presenting a broad view of “linking”.
 
-1.	[Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards](/_posts/Blogs/OptimizeDota.md)
+1.	[Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards](https://github.com/DarkStar1997/darkstar1997.github.io/blob/master/_posts/Blogs/OptimizeDota.md)
 
 	*25th July 2019*
 
