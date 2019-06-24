@@ -17,9 +17,9 @@ I love to share my learnings with my friends. Here are a few blogs I have writte
 
 	C++ is a general-purpose, multi-paradigm programming language designed/developed by Bjarne Stroustrup which alongwith C, forms the backbone of majority of the programming industry today. A very important concept to be grasped by beginner programmers is the idea of “linking”. Linking basically refers to the process of bundling library code into an archive and use it later when necessary. It turns out to be an idea that is used extensively in production. The following article aims at presenting a broad view of “linking”.
 
-1.	[Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards](https://github.com/DarkStar1997/darkstar1997.github.io/blob/master/_posts/Blogs/OptimizeDota.md)
+1.	[Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards](/_posts/OptimizeDota.md)
 
-	*25th July 2019*
+	*25th June 2019*
 
 	Gaming on the **Linux** platform is extremely underrated and is often completely *rejected* by most gamers when it comes to high-FPS gaming. In this blog, I will present a stark contrast to the above idea. The game of [Dota 2](https://www.dota2.com/play/) does not need any introduction, and being a Linux enthusiast and a Dota addict, I'd love to share a few simple tips on optimizing Dota 2 performance on Linux.
 
