@@ -1,4 +1,8 @@
-#	Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards
+---
+layout: post
+title: Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards
+---
+
 
 *Tags:*
 
