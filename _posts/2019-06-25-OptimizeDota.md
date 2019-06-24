@@ -49,22 +49,25 @@ To install the NVIDIA graphics drivers and Vulkan support, please find the insta
 
 We are almost done!!! In order to enable *Vulkan*, a few more steps need to be performed. Quit Dota go to the Steam Library page. Right click on *Dota 2*, click on *View Downloadable Content*, move to the *DLC* tab and check the option *Dota 2 - Vulkan Support*. You'll immediately see a download has started.
 
-![View Downloadable Content](https://imgur.com/YeiKxNP)
-![Check option](https://imgur.com/mhSJble)
+<blockquote class="imgur-embed-pub" lang="en" data-id="YeiKxNP"><a href="//imgur.com/YeiKxNP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="mhSJble"><a href="//imgur.com/mhSJble"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Meanwhile as the Download progresses, again go to the *Steam Library* page, right click on *Dota 2*, click on *Properties* and under the *General* tab click on *SET LAUNCH OPTIONS* and add the following options: **-vconsole -vulkan** and close it.
 
-![Properties](https://imgur.com/oX7TwCc)
-![Launch Options](https://imgur.com/v9R3pTZ)
-![Set vulkan flags](https://imgur.com/rsAygYz)
+<blockquote class="imgur-embed-pub" lang="en" data-id="oX7TwCc"><a href="//imgur.com/oX7TwCc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="v9R3pTZ"><a href="//imgur.com/v9R3pTZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="rsAygYz"><a href="//imgur.com/rsAygYz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 On opening Dota 2, under Settings -> Video, your rendering API should now be Vulkan as shown:
 
-![Vulkan](https://imgur.com/j8tnwPj)
+<blockquote class="imgur-embed-pub" lang="en" data-id="j8tnwPj"><a href="//imgur.com/j8tnwPj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 On the right side of the page, under rendering, to your surprise, under rendering, you will find a new option **Compute Shaders**. Check that option as it will also help a lot in increasing your Dota 2 performance.
 
-![Compute Shaders](https://imgur.com/VNxHSwp)
+<blockquote class="imgur-embed-pub" lang="en" data-id="VNxHSwp"><a href="//imgur.com/VNxHSwp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 As you can see, the above screenshot was taken on my laptop with an NVIDIA 1050 GPU and has the *Game Screen Rendering Quality* to be at *100%*. The maximum FPS was auto-detected to be at 150 fps. That's all you had to do. Now enjoy the game of Dota 2 to the fullest!!!
 
