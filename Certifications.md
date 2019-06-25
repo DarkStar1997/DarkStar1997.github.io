@@ -5,11 +5,13 @@ title: Certifications
 
 
 
-
+<br/>
+<br/>
 
 ##	Academic
 
-
+<br/>
+<br/>
 
 
 1.	**Advanced C++**<br/>
@@ -32,11 +34,13 @@ title: Certifications
 	<iframe src="https://drive.google.com/file/d/0B-KEmP85lMrWV1BBdG5BdHVrcUE/preview" width="640" height="480"></iframe>
 
 
-
+<br/>
+<br/>
 
 ##	Programming
 
-
+<br/>
+<br/>
 
 
 1. **ACM ICPC 2017 Regionals**<br/>
@@ -51,11 +55,13 @@ title: Certifications
 
 	<iframe src="https://drive.google.com/file/d/1OWgjdBoMCDORIF4EffL2YrMyXIVKWDgT/preview" width="640" height="480"></iframe>
 
-
+<br/>
+<br/>
 
 ##	Environmental Causes
 
-
+<br/>
+<br/>
 
 
 1. **Green Revolution**<br/>
@@ -65,11 +71,13 @@ title: Certifications
 	<iframe src="https://drive.google.com/file/d/0B-KEmP85lMrWcWpLeVNoTUR5ODA/preview" width="640" height="480"></iframe>
 
 
-
+<br/>
+<br/>
 
 ##	Games
 
-
+<br/>
+<br/>
 
 
 1. **Chess**<br/>
@@ -79,11 +87,13 @@ title: Certifications
 	<iframe src="https://drive.google.com/file/d/1XKCb4SC4Bo_fwpcAO_4Br1m7CgTbeM3p/preview" width="640" height="480"></iframe>
 
 
-
+<br/>
+<br/>
 
 ##	Music
 
-
+<br/>
+<br/>
 
 
 1. **Guitar**<br/>
@@ -93,11 +103,13 @@ title: Certifications
 	<iframe src="https://drive.google.com/file/d/10OOsGl0LrftENXwg4_aeDus9YpIzvxM1/preview" width="640" height="480"></iframe>
 
 
-
+<br/>
+<br/>
 
 ##	Project Exhibition
 
-
+<br/>
+<br/>
 
 
 1. **Project Exhibitor at Kolkata Mini Maker Faire 2018**<br/>
