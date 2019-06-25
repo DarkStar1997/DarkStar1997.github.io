@@ -46,6 +46,6 @@ title: Achievements
 
 	On the 8th of December, 2014, Shubham Gupta and me won the Code Quest 2014 organized by the Computer Club of [La Martiniere for Boys](http://lamartiniereforboys.co/) and hosted by [Codechef](https://www.codechef.com/). This is me receiving the prize:
 
-	[Code Quest](/assets/Pictures/image12.jpg)
+	![Code Quest](/assets/pictures/image12.jpg)
 
 	I was in my 11th standard at that time and this was my very first Competitive Programming contest. Have a look at the full post [here](https://www.facebook.com/CodeChef/posts/codechefforschools-in-kolkata-thanks-to-animesh-fatehpuria-from-la-martiniere-fo/10152547279632799/). Don't forget to have a look at the certificate I earned for this contest displayed at my [Certifications](/Certifications.md)
