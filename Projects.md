@@ -45,7 +45,9 @@ title: Projects
 
 	The emotion detection has been done in Python and the video playing and face detection has been done in C++. The integration of these two portions have been done using a system call: `system("python3 realtime.py");` in [test2.cpp](https://github.com/sayansil/Liquid-Player/blob/master/test2.cpp). This has prevented the need of using any wrapper code.
 
-	Have a look at a simple video demonstration of the project [here](https://photos.app.goo.gl/BPXVni8pjPzA1vrk6).
+	Have a look at a simple video demonstration of the project here:
+
+	<iframe src="https://player.vimeo.com/video/344357038" width="640" height="352" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 1.	Insight
 
@@ -61,9 +63,9 @@ title: Projects
 
 	We will be trying to incorporate more features like human-pose estimation and also proper documentation of the detected items and maintaining a proper database for it so that user can query the database efficiently and gain thorough information about the incidents happening at the surveillance area.
 
-	Have a look at a simple demo **video** of the project in our College lab:
+	Have a look at a simple demo video of the project in our College lab:
 
-	[![Insight Demo](/assets/pictures/image10.png)](https://photos.app.goo.gl/yF1vXyV1FapJ87Sj8)
+	<iframe src="https://player.vimeo.com/video/344358614" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 1.	[Machizmo](https://github.com/DarkStar1997/Machizmo)
 	
@@ -90,7 +92,7 @@ title: Projects
 
 	Have a look at a demo **video** of the project:
 
-	[![Traffic Congestion Demo](/assets/pictures/image11.jpeg)](https://photos.app.goo.gl/35V3gTeaJMkJGd478)
+	<iframe src="https://player.vimeo.com/video/344359358" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 1.	[Movie Review Sentiment Analysis from Scratch](https://github.com/DarkStar1997/Movie-Review-Sentiment-Analysis)
 

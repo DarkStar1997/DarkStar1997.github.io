@@ -7,7 +7,7 @@ In this page I will be adding random stuff which might be of interest to you.
 
 *	Me playing guitar when I was a child (probably in class 5 or younger)
 
-	[![Guitar](/assets/pictures/image8.png)](https://photos.app.goo.gl/p3dV31rDrW2VeDxA6)
+	<iframe src="https://player.vimeo.com/video/344354822" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 *	A report on High Performance Computing which I wrote for my Technical Report Writing Class
 
