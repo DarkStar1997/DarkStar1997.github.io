@@ -29,16 +29,16 @@ In this page I will be adding random stuff which might be of interest to you.
 
 	[Chaos Knight](https://dota2.gamepedia.com/Chaos_Knight)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/iA5FSri"><a href="//imgur.com/a/iA5FSri">Chaos Knight</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/XT0pjUv"><a href="//imgur.com/a/XT0pjUv">Chaos Knight</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 	[Legion Commander](https://dota2.gamepedia.com/Legion_Commander)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/y1bFjMx"><a href="//imgur.com/a/y1bFjMx">Legion Commander</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/cq0qbRS"><a href="//imgur.com/a/cq0qbRS">Legion Commander</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 	[Sven](https://dota2.gamepedia.com/Sven)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/uMolexZ"><a href="//imgur.com/a/uMolexZ">Sven</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/45oDKc6"><a href="//imgur.com/a/45oDKc6">Sven</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 	[Nyx Assasin](https://dota2.gamepedia.com/Nyx_Assassin)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/f9bwLIy"><a href="//imgur.com/a/f9bwLIy">Nyx Assasin</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/OUvBbrW"><a href="//imgur.com/a/OUvBbrW">Nyx Assasin</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
