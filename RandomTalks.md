@@ -29,12 +29,16 @@ In this page I will be adding random stuff which might be of interest to you.
 
 	[Chaos Knight](https://dota2.gamepedia.com/Chaos_Knight)
 
-	<iframe src="https://giphy.com/embed/Z9zmezFtsv3TqkMt3g" width="420" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Z9zmezFtsv3TqkMt3g">via GIPHY</a></p>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/iA5FSri"><a href="//imgur.com/a/iA5FSri">Chaos Knight</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 	[Legion Commander](https://dota2.gamepedia.com/Legion_Commander)
 
-	<iframe src="https://giphy.com/embed/RJc1B8UvLpKTTCVdUQ" width="420" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RJc1B8UvLpKTTCVdUQ">via GIPHY</a></p>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/y1bFjMx"><a href="//imgur.com/a/y1bFjMx">Legion Commander</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 	[Sven](https://dota2.gamepedia.com/Sven)
 
-	<iframe src="https://giphy.com/embed/RH871JIlhZo7s1Aotr" width="420" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/RH871JIlhZo7s1Aotr">via GIPHY</a></p>
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/uMolexZ"><a href="//imgur.com/a/uMolexZ">Sven</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+	[Nyx Assasin](https://dota2.gamepedia.com/Nyx_Assassin)
+
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/f9bwLIy"><a href="//imgur.com/a/f9bwLIy">Nyx Assasin</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
