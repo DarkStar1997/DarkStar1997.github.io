@@ -33,12 +33,12 @@ In this page I will be adding random stuff which might be of interest to you.
 
 	[Legion Commander](https://dota2.gamepedia.com/Legion_Commander)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/cq0qbRS"><a href="//imgur.com/a/cq0qbRS">Legion Commander</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//cdn.iframe.ly/dHiS2fg?media=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 	[Sven](https://dota2.gamepedia.com/Sven)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/45oDKc6"><a href="//imgur.com/a/45oDKc6">Sven</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//cdn.iframe.ly/o0YW8Hd?media=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 	[Nyx Assasin](https://dota2.gamepedia.com/Nyx_Assassin)
 
-	<blockquote class="imgur-embed-pub" lang="en" data-id="a/OUvBbrW"><a href="//imgur.com/a/OUvBbrW">Nyx Assasin</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+	<div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="//cdn.iframe.ly/Yb5D9PQ?media=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
