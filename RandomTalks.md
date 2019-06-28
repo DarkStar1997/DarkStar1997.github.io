@@ -17,7 +17,7 @@ In this page I will be adding random stuff which might be of interest to you.
 
 	In this video I have demonstrated the usage of the [GMP library](https://gmplib.org/) side by side with the BigInteger library in JAVA. Please be mindful of the fact that this video was uploaded a long time ago in my first year of college when I still used Windows as my primary OS.
 
-	<iframe width="640" height="480" src="https://www.youtube.com/embed/C2RKwXYovkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/C2RKwXYovkQ' frameborder='0' allowfullscreen></iframe></div>
 
 *	My Arch Linux with i3 setting:
 

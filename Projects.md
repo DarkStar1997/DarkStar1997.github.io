@@ -47,7 +47,7 @@ title: Projects
 
 	Have a look at a simple video demonstration of the project here:
 
-	<iframe src="https://player.vimeo.com/video/344357038" width="640" height="352" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/344357038' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 1.	Insight
 
@@ -65,7 +65,7 @@ title: Projects
 
 	Have a look at a simple demo video of the project in our College lab:
 
-	<iframe src="https://player.vimeo.com/video/344358614" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/344358614' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 1.	[Machizmo](https://github.com/DarkStar1997/Machizmo)
 	
@@ -92,7 +92,7 @@ title: Projects
 
 	Have a look at a demo **video** of the project:
 
-	<iframe src="https://player.vimeo.com/video/344359358" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/344359358' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 1.	[Movie Review Sentiment Analysis from Scratch](https://github.com/DarkStar1997/Movie-Review-Sentiment-Analysis)
 
