@@ -19,7 +19,7 @@ title: Certifications
 	<img align="left" width="30" height="30" src="/assets/icons/microsoft.png"> &nbsp; Microsoft
 	
 	<!---<embed align="centre" src="/assets/documents/microsoft-cpp.pdf" width="800" height="700" />--->
-	<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4214%;"><iframe src="https://drive.google.com/file/d/1MFxNmgNkRDYLts0Y56pd_Se546qG37Dj/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
+	<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 70.4214%;"><iframe src="https://drive.google.com/file/d/1MFxNmgNkRDYLts0Y56pd_Se546qG37Dj/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
 
 1.	**Object Oriented Programming in JAVA**<br/>
 
