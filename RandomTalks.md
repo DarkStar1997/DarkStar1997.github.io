@@ -11,7 +11,7 @@ In this page I will be adding random stuff which might be of interest to you.
 
 *	A report on High Performance Computing which I wrote for my Technical Report Writing Class
 
-	<iframe src="https://drive.google.com/file/d/1h-iVCAsfryl23HhJGZQcGsNJ1rTj2JRU/preview" width="640" height="480"></iframe>
+	<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4214%;"><iframe src="https://drive.google.com/file/d/1h-iVCAsfryl23HhJGZQcGsNJ1rTj2JRU/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
 
 *	Youtube video demonstrating GMP C++
 
