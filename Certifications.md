@@ -100,7 +100,7 @@ title: Certifications
 
 	<img align="left" width="30" height="30" src="/assets/icons/bangiya.jpeg"> &nbsp; [Bangiya Sangeet Parishad](http://www.bangiyasangeetparishad.org/)
 
-	<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 70.4214%;"><iframe src="https://drive.google.com/file/d/10OOsGl0LrftENXwg4_aeDus9YpIzvxM1/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
+	<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 80.4214%;"><iframe src="https://drive.google.com/file/d/10OOsGl0LrftENXwg4_aeDus9YpIzvxM1/preview?usp=embed_googleplus" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen allow="autoplay; encrypted-media"></iframe></div>
 
 
 <br/>
