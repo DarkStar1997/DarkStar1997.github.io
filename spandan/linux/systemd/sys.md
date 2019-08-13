@@ -19,7 +19,7 @@ Usually this init system is run as the first process and is hence PID 1 of the s
 $ man systemctl
 $ man journalctl
 ```
-!['Systemd Components']('/spandan/linux/systemd/Systemd-components.png')
+!['Systemd Components']('https://github.com/another-dark-knight/darkstar1997.github.io/blob/master/spandan/linux/systemd/Systemd-components.png')
 Systemd is on many modern hardware considerably faster than SysVinit and does a lot more. It has its own poewer management scripts, an excellent binary logging system and many more features. It does all that an **init** system must do and more. It is basically the paradise for someone who does not want to worry about much and get going with his/her workflow. There are also scripts to anlalyze your boot time and do in something called a critical-chain, all of which you will find in the man pages.
 <br/>
 <br/>
