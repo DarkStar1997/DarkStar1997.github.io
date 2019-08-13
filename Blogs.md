@@ -7,9 +7,6 @@ I would love to share my lessons learnt with everyone here. This page will have 
 
 ## C++
 
-<br/>
-<br/>
-
 1. [Intermediate C++: Speeding up iostreams in C++](https://dasayan05.github.io/blog-tut/2019/04/06/speeding-up-iostreams-in-c++.html)
 	
 	*6th April 2019*
@@ -24,9 +21,6 @@ I would love to share my lessons learnt with everyone here. This page will have 
 
 ## Gaming
 
-<br/>
-<br/>
-
 1.	[Optimizing Dota 2 Performance on Linux with Vulkan on NVIDIA Graphics Cards]({{ site.baseurl }}{% post_url 2019-06-25-OptimizeDota %})
 
 	*25th June 2019*
@@ -35,11 +29,7 @@ I would love to share my lessons learnt with everyone here. This page will have 
 
 	*Spoilers:* As I will demonstrate, after following the steps given in this blog you should have a significantly higher FPS compared to Dota running on Windows on identical hardware (about 30-40 FPS, depending on your graphics card).
 
-
 ## Linux
-
-<br/>
-<br/>
 
 1.	[The systemd Controversy]({{ site.baseurl }}{% post_url 2019-08-14-TheSystemdControversy %})
 
