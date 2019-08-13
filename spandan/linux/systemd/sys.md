@@ -40,7 +40,7 @@ In case of another distro like artix linux, its there in **/etc/runit/sv**</br><
 $ ls /etc/sv
 ```
 
-
+<img src='https://github.com/another-dark-knight/darkstar1997.github.io/blob/master/spandan/linux/systemd/Screenshot_2019-08-13_22-57-29.png'>
 <br/>
 The enabled services are stored as symlinks in **/var/service (/run/runit/service for atrix linux)**.<br/>
 Eg: To enable a service,</br><br/>
