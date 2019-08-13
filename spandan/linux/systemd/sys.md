@@ -49,6 +49,12 @@ Eg: To enable a service,</br><br/>
 $ ln -s /etc/runit/sv/service_name /run/runit/service/
 ```
 
+To disable a service in the current runlevel, remove the symlink to its service directory from /var/service:
+
+```
+$ rm /var/service/service_name
+```
+
 <br/>
 The service is then enabled as well as started. Otherwise starting and stopping services are quite easy.
 To start, stop or restart a service, run:<br/>
