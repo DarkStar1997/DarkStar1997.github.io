@@ -19,7 +19,7 @@ Usually this init system is run as the first process and is hence PID 1 of the s
 $ man systemctl
 $ man journalctl
 ```
-!['Systemd Components']('https://github.com/another-dark-knight/darkstar1997.github.io/blob/master/spandan/linux/systemd/Systemd-components.png')
+![]('https://github.com/another-dark-knight/darkstar1997.github.io/blob/master/spandan/linux/systemd/Systemd-components.png')
 Systemd is on many modern hardware considerably faster than SysVinit and does a lot more. It has its own poewer management scripts, an excellent binary logging system and many more features. It does all that an **init** system must do and more. It is basically the paradise for someone who does not want to worry about much and get going with his/her workflow. There are also scripts to anlalyze your boot time and do in something called a critical-chain, all of which you will find in the man pages.
 <br/>
 <br/>
@@ -28,3 +28,35 @@ While we are in the *heaven* that systemd is, we have maybe gone a bit astray as
 <br/>
 With all these features (jargon), Systemd is no longer just an init system. It does a lot og things for you and if you are a minimalist like me, it does way too much than it should. For a hardcore minimalist, **Systemd is bloat**. I would just like to clarify here that I like what systemd does for someone who does not care what the init does and just wants everything to work while focussing on one's respective project or other (lesser crazy) aspects of life.
 
+<br/>
+<br/>
+There are two very popular alternatives : Gentoo's OpenRC and Void's runit. Void's runit is my personal favourite and I'll go on and talk about it. By definition, unit is a suite of tools which provides an init (PID 1) as well as daemontools-compatible process supervision framework, along with utilites which streamline creation and maintenance of services. In other words, its just an init system. It maintains two folders for services. In one folder all the services are stored and in the other the enabled services should have a symlink to the respective services in the first folder. The location of these folders may vary from distro to distro however, I'll stick to the mainstream here and go on to describe it the way Void linux has made it.
+<br/>
+<br/>
+To get a list of all the services installed one may check the contents of the folder in which they are stored (here: **/etc/sv**).
+In case of another distro like artix linux, its there in **/etc/runit/sv**</br><br/>
+```
+ls /etc/sv
+```
+<br/>
+The enabled services are stored as symlinks in **/var/service (/run/runit/service for atrix linux)**.<br/>
+Eg: To enable a service,</br><br/>
+```
+ln -s /etc/runit/sv/service_name /run/runit/service/
+```
+<br/>
+The service is then enabled as well as started. Otherwise starting and stopping services are quite easy.
+To start, stop or restart a service, run:<br/>
+```
+# sv up service_name
+# sv down service_name
+# sv restart service_name
+```
+To get the current status of a service, run:<br/>
+```
+# sv status service_name
+```
+To get the current status of all enabled services, run:<br/>
+```
+# sv status /var/service/*
+```
