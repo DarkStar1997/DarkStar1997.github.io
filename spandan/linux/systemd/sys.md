@@ -23,3 +23,7 @@ Systemd is on many modern hardware considerably faster than SysVinit and does a 
 <br/>
 <br/>
 While we are in the *heaven* that systemd is, we have maybe gone a bit astray as to what we, the Linux community represent. We represent respect for opinions of the people and have always encouraged the ability of people to choose. Now assume that you are an.
+<br/>
+<br/>
+With all these features (jargon), Systemd is no longer just an init system. It does a lot og things for you and if you are a minimalist like me, it does way too much than it should. For a hardcore minimalist, **Systemd is bloat**. I would just like to clarify here that I like what systemd does for someone who does not care what the init does and just wants everything to work while focussing on one's respective project or other (lesser crazy) aspects of life.
+
