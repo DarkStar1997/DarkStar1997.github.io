@@ -49,7 +49,7 @@ Eg: To enable a service,</br><br/>
 $ ln -s /etc/runit/sv/service_name /run/runit/service/
 ```
 
-To disable a service in the current runlevel, remove the symlink to its service directory from /var/service:
+To disable a service in the current runlevel, remove the symlink to its service directory from the directory containing the symlinks:
 
 ```
 $ rm /var/service/service_name
@@ -76,3 +76,7 @@ To get the current status of all enabled services, run:<br/>
 ```
 $ sv status /var/service/*
 ```
+
+To learn more about the runit commands like runsvdir, runsvschdir etc, please refer to the official documentation of runit : http://smarden.org/runit/
+
+To wrap it up, Systemd does a great job at what it aims to achieve but if you,like me do not want an init system that also takes care of date-time stuff XD (timedatectl), it is imperative that we try something like runit. runit is also known for its extremely fast boot times. This difference is more notable on a HDD harddisk where I even got 10s faster boots on a 2GB RAM machine.
