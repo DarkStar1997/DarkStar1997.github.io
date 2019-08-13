@@ -36,27 +36,28 @@ There are two very popular alternatives : Gentoo's OpenRC and Void's runit. Void
 To get a list of all the services installed one may check the contents of the folder in which they are stored (here: **/etc/sv**).
 In case of another distro like artix linux, its there in **/etc/runit/sv**</br><br/>
 ```
-ls /etc/sv
+$ ls /etc/sv
+
 ```
 <br/>
 The enabled services are stored as symlinks in **/var/service (/run/runit/service for atrix linux)**.<br/>
 Eg: To enable a service,</br><br/>
 ```
-ln -s /etc/runit/sv/service_name /run/runit/service/
+$ ln -s /etc/runit/sv/service_name /run/runit/service/
 ```
 <br/>
 The service is then enabled as well as started. Otherwise starting and stopping services are quite easy.
 To start, stop or restart a service, run:<br/>
 ```
-# sv up service_name
-# sv down service_name
-# sv restart service_name
+$ sv up service_name
+$ sv down service_name
+$ sv restart service_name
 ```
 To get the current status of a service, run:<br/>
 ```
-# sv status service_name
+$ sv status service_name
 ```
 To get the current status of all enabled services, run:<br/>
 ```
-# sv status /var/service/*
+$ sv status /var/service/*
 ```
