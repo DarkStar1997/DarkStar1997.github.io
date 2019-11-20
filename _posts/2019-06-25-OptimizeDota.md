@@ -35,9 +35,9 @@ Meanwhile as the Download progresses, again go to the *Steam Library* page, righ
 
 ![Properties](https://imgur.com/oX7TwCc.png)
 
-![Set Launch Options](imgur.com/v9R3pTZ.png)
+![Set Launch Options](https://imgur.com/v9R3pTZ.png)
 
-![Launch Options](imgur.com/rsAygYz.png)
+![Launch Options](https://imgur.com/rsAygYz.png)
 
 On opening Dota 2, under Settings -> Video, your rendering API should now be Vulkan as shown:
 
