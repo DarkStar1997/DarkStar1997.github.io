@@ -23,29 +23,29 @@ As stated in the title, we will be needing [Vulkan](https://www.khronos.org/vulk
 
 To install the NVIDIA graphics drivers and Vulkan support, please find the installation instructions for your respective distro. If you are running Arch Linux, you can install the latest nvidia graphics drivers and vulkan support with the command `sudo pacman -S nvidia-dkms vulkan-icd-loader`. What makes the 430 driver special is that, it received notable performance improvements for [Vulkan](https://www.khronos.org/vulkan/). The installation of [Steam](https://store.steampowered.com/) is also straightforward for most distros. If you are on Arch, follow [these](https://wiki.archlinux.org/index.php/Steam) instructions to install [Steam](https://store.steampowered.com/). In my experience, you might need [nvidia-utils](https://www.archlinux.org/packages/extra/x86_64/nvidia-utils/) and [lib32-nvidia-utils](https://www.archlinux.org/packages/multilib/x86_64/lib32-nvidia-utils/) to get [Steam](https://store.steampowered.com/) running. With [Steam](https://store.steampowered.com/) up and running, installing and running [Dota 2](https://www.dota2.com/play/) should be a piece of cake. To monitor your FPS turn on the [Steam](https://store.steampowered.com/) FPS counter by opening [Steam](https://store.steampowered.com/) and going to Steam -> Settings -> In-Game and adjust the *In-game FPS counter* to your liking. Now opening Dota, going to Settings -> Video, under options, the rendering API should be *OpenGL* as shown:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="GExarRb"><a href="//imgur.com/GExarRb"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![OpenGL config](https://imgur.com/GExarRb.png)
 
 We are almost done!!! In order to enable *Vulkan*, a few more steps need to be performed. Quit Dota go to the Steam Library page. Right click on *Dota 2*, click on *View Downloadable Content*, move to the *DLC* tab and check the option *Dota 2 - Vulkan Support*. You'll immediately see a download has started.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="YeiKxNP"><a href="//imgur.com/YeiKxNP"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Downloadable Content 1](https://imgur.com/YeiKxNP.png)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="mhSJble"><a href="//imgur.com/mhSJble"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Downloadable Content 2](https://imgur.com/mhSJble.png)
 
 Meanwhile as the Download progresses, again go to the *Steam Library* page, right click on *Dota 2*, click on *Properties* and under the *General* tab click on *SET LAUNCH OPTIONS* and add the following options: **-vconsole -vulkan** and close it.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="oX7TwCc"><a href="//imgur.com/oX7TwCc"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Properties](https://imgur.com/oX7TwCc.png)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="v9R3pTZ"><a href="//imgur.com/v9R3pTZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Set Launch Options](imgur.com/v9R3pTZ.png)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="rsAygYz"><a href="//imgur.com/rsAygYz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Launch Options](imgur.com/rsAygYz.png)
 
 On opening Dota 2, under Settings -> Video, your rendering API should now be Vulkan as shown:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="j8tnwPj"><a href="//imgur.com/j8tnwPj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Vulkan API in use](https://i.imgur.com/j8tnwPj.png)
 
 On the right side of the page, under rendering, to your surprise, under rendering, you will find a new option **Compute Shaders**. Check that option as it will also help a lot in increasing your Dota 2 performance.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="VNxHSwp"><a href="//imgur.com/VNxHSwp"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Compute Shaders](https://imgur.com/VNxHSwp)
 
 As you can see, the above screenshot was taken on my laptop with an NVIDIA 1050 GPU and has the *Game Screen Rendering Quality* to be at *100%*. The maximum FPS was auto-detected to be at 150 fps. That's all you had to do. Now enjoy the game of Dota 2 to the fullest!!!
 
