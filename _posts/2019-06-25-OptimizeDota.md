@@ -45,7 +45,7 @@ On opening Dota 2, under Settings -> Video, your rendering API should now be Vul
 
 On the right side of the page, under rendering, to your surprise, under rendering, you will find a new option **Compute Shaders**. Check that option as it will also help a lot in increasing your Dota 2 performance.
 
-![Compute Shaders](https://imgur.com/VNxHSwp)
+![Compute Shaders](https://imgur.com/VNxHSwp.png)
 
 As you can see, the above screenshot was taken on my laptop with an NVIDIA 1050 GPU and has the *Game Screen Rendering Quality* to be at *100%*. The maximum FPS was auto-detected to be at 150 fps. That's all you had to do. Now enjoy the game of Dota 2 to the fullest!!!
 
