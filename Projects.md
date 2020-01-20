@@ -9,7 +9,7 @@ title: Projects
 
 	[Sayan Sil](https://sayansil.web.app/)<br/>
 	
-In this work, we present a novel **Ecosystem Simulator** where the user *plays the role of God*. Our toolkit helps the user **mimic a real-world ecosystem** where he can introduce new organisms with custom characteristics and also bring changes to the ecosystem and then observe their behavior and reaction to those changes. Thus the user can be looked upon as The God of the ecosystem who has the power to bring any change with which he can **simulate the problems happening worldwide** and gain valuable insights on how the organisms try to adapt to the change to ensure their survival. Studying the overall behavior of the ecosystem will provide us with a wealth of knowledge and be far better prepared on how we should be **equipped to handle the future.**
+	In this work, we present a novel **Ecosystem Simulator** where the user *plays the role of God*. Our toolkit helps the user **mimic a real-world ecosystem** where he can introduce new organisms with custom characteristics and also bring changes to the ecosystem and then observe their behavior and reaction to those changes. Thus the user can be looked upon as The God of the ecosystem who has the power to bring any change with which he can **simulate the problems happening worldwide** and gain valuable insights on how the organisms try to adapt to the change to ensure their survival. Studying the overall behavior of the ecosystem will provide us with a wealth of knowledge and be far better prepared on how we should be **equipped to handle the future.**
 	
 1.	[Liquid Player](https://github.com/sayansil/Liquid-Player)
 
