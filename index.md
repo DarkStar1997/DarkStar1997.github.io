@@ -3,7 +3,7 @@ layout: default
 title: Homepage
 ---
 
-![My Picture](/assets/pictures/image2.jpg){:width="100%" border-radius="100"}
+![My Picture](https://i.imgur.com/BJQENDX.jpg){:width="100%" border-radius="100"}
 
 
 # Welcome!!!
