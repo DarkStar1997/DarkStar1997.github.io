@@ -5,6 +5,13 @@ title: Achievements
 
 
 
+1. **Techno Wiz 2020**
+
+	On the 19th of January, 2020, I won the Techno Wiz Award for my technical contributions to college and also for my personal achievements.
+
+	![Techno Wiz 2020](https://i.imgur.com/QJRhKZR.jpg)
+
+
 1. **MAKAUT Conclave 2019**
 	
 	On the 28th of February, 2019, IEM stood first in the Academia Conclave organized by [MAKAUT](http://www.wbut.ac.in/). 45 colleges all over West Bengal participated in the event and more than 100 projects were showcased. I was a part of the IEM-IEDC team and exhibited three of my projects - *Insight*, *Machizmo* and *Liquid Player*.
