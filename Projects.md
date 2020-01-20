@@ -3,6 +3,14 @@ layout: page
 title: Projects
 ---
 
+1.	[You Play God](https://sayansil.github.io/Ecosystem/)
+
+	Other Contributors:
+
+	[Sayan Sil](https://sayansil.web.app/)<br/>
+	
+In this work, we present a novel **Ecosystem Simulator** where the user *plays the role of God*. Our toolkit helps the user **mimic a real-world ecosystem** where he can introduce new organisms with custom characteristics and also bring changes to the ecosystem and then observe their behavior and reaction to those changes. Thus the user can be looked upon as The God of the ecosystem who has the power to bring any change with which he can **simulate the problems happening worldwide** and gain valuable insights on how the organisms try to adapt to the change to ensure their survival. Studying the overall behavior of the ecosystem will provide us with a wealth of knowledge and be far better prepared on how we should be **equipped to handle the future.**
+	
 1.	[Liquid Player](https://github.com/sayansil/Liquid-Player)
 
 	Other Contributors:
@@ -74,12 +82,18 @@ title: Projects
 	[Sayan Sil](https://sayansil.web.app/)<br/>
 	[Abhirup Das](https://www.linkedin.com/in/abhirup-das-5a174212a/)<br/>
 
-	This project features a head controlled mouse aimed to be an extension of one of our previous projects - Air Mouse. The movements of the cursor of the computer and also the left and right clicks can be controlled by the head movements of the user and the smoothness and speed is much better than the previous project. It has been tested in a Linux environment on multiple configurations - on a gaming laptop with i7 7700HQ processor with an NVIDIA GeForce GTX 1050 graphics card it gives a speed of about 55 FPS. On another 1½ year old laptop with an i3 6th gen processor and no dedicated graphics card it gives about 40 fps and on a new i5 8th gen laptop, a speed of about 50 FPS. A graphics card is optional but is recommended for higher speed and accuracy. Moreover we are also trying to integrate voice functionality so that the user can give voice commands also enable voice typing to make the project more versatile. The only essential hardware requirement is a decent webcam.
+	This project features a head controlled mouse aimed to be an extension of one of our previous projects - Air Mouse. The movements of the cursor of the computer and also the left and right clicks can be controlled by the head movements of the user and the smoothness and speed is much better than the previous project. It has been tested in a Linux environment on multiple configurations - on a gaming laptop with i7 7700HQ processor with an NVIDIA GeForce GTX 1050 graphics card it gives a speed of about 55 FPS. On another 1½ year old laptop with an i3 6th gen processor and no dedicated graphics card it gives about 40 fps and on a new i5 8th gen laptop, a speed of about 50 FPS. A graphics card is optional but is recommended for higher speed and accuracy. Moreover we are also trying to integrate voice functionality so that the user can give voice commands also enable voice typing to make the project more versatile. The only essential hardware requirement is a decent web-cam.
 
 	## Future Plans
 
 	We will be trying to add speech-to-text functionality to this project
 
+	
+	
+	Have a look at the simple demo video I prepared:
+	
+	<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/a2z1v8kU79I' frameborder='0' allowfullscreen></iframe></div>
+	
 1.	[Traffic Congestion Detection](https://kolkata.makerfaire.com/2018/11/15/traffic-congestion-detection/)
 
 	Other Contributors:
